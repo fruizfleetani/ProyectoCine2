@@ -1,0 +1,157 @@
+:root {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+    background-color: lightblue;
+}
+
+.no_ini img {
+    width: 150vh;
+    height: 70vh;
+}
+
+a {
+    text-decoration: none;
+    font-size: 3vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(16, 8, 90);
+}
+
+.cabecera {
+    display: flex;
+    border-bottom: 2px solid black;
+    flex-direction: row;
+    background-color: lightblue;
+    margin-top: 0;
+    margin-right: 0;
+    padding: 4vh;
+    margin-bottom: 2vh;
+    font-size: 3vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.cabecera img {
+    width: 15vh;
+    height: 15vh;
+}
+
+.login {
+    height: 6vh;
+    border-bottom: 2px solid black;
+}
+
+#boton{
+    border-left: 2px solid black;
+    text-decoration: none;
+    color: black;
+    margin-left: 5vh;
+    padding-left: 1.5vh;
+    margin-right: 1vh;
+}
+
+
+
+#primerBoton{
+    text-decoration: none;
+    color: black;
+    margin-left: 2vh;
+    /* font-size: small; */
+    /* padding-left: 5vh; */
+    margin-right: 1vh;
+    border: 0px;
+}
+
+#boton:hover{
+    transition: 0.5s ease;
+    color: grey;
+}
+
+#primerBoton:hover{
+    transition: 0.5s ease;
+    color: grey;
+}
+
+
+#boton2{
+    border-left: 2px solid black;
+    text-decoration: none;
+    color: black;
+    margin-left: 5vh;
+    padding-left: 10vh;
+    margin-right: 2vh;
+}
+
+
+
+#primerBoton2{
+    text-decoration: none;
+    color: black;
+    margin-left: 10vh;
+    padding-left: 20vh;
+    margin-right: 2vh;
+    padding-bottom: 2vh;
+}
+
+#boton2:hover{
+    transition: 0.5s ease;
+    color: grey;
+}
+
+#primerBoton2:hover{
+    transition: 0.5s ease;
+    color: grey;
+}
+
+.contenido {
+    display: flex;
+}
+
+.tabla_doctores {
+    width: 150vh;
+    margin-left: 2vh;
+    background-color: lightblue;
+    padding: 4vh;
+}
+
+.tabla_doctores table {
+    width: 70%;
+    background-color: lightblue;
+    font-size: 3vh;
+}
+
+.tabla_doctores td {
+    padding: 2vh;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+}
+
+.info {
+    width: 150vh;
+    margin-left: 2vh;
+    background-color: lightblue;
+    padding: 3vh;
+    font-size: 3vh;
+}
+
+.centrado {
+    font-weight: bold;
+}
+
+#logo {
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    margin-left: 320px;
+}
+
+#titulo {
+    margin-left: 20px;
+    color: black;
+}
+
+#imagen_inicio {
+    margin-left: 2vh;
+    border-radius: 10px;
+}
+
