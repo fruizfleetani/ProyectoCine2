@@ -1,4 +1,4 @@
-# Proyecto-Clinica-PHP
+# Proyecto Cine
 
 Es necesario tener instalado el composer en nuestro dispositivo para que pueda funcionar el envío de correo.
 
